@@ -1,0 +1,4 @@
+# java compiled and Eclipse info
+*.classpath
+*.project
+*.class
